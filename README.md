@@ -1,5 +1,5 @@
 ### Description:
-     This is a web application using google books api to search for books. 
+     This is a web application using the google books api to search for books. 
      I converted this app from a RESTful API to a GraphQL API and used the Apollo server 3.
   
 ## Deployed App:
