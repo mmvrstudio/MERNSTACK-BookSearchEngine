@@ -1,16 +1,25 @@
-### Description 
-    With Google Books API I was able to build a search engine into a GraphQL API, built with the Apollo Server. This web application uses MERNSTACK, MongoDB database and Node on the back end, and React at the front end. To be completed I used the Express.js server and API.
+### Description:
+     This is a web application using google books api to search for books. 
+     I converted this app from a RESTful API to a GraphQL API and used the Apollo server 3.
   
-## Deployed App: 
+## Deployed App:
 
-
+    https://mernstack-booksearchengine.herokuapp.com/
 
 ## Installation:
-    $ git clone git@github.com:mmvrstudio/MERNSTACK-BookSearchEngine.git
-    $ cd MERNSTACK-BookSearchEngine
-    $ npm install
+    $ git clone git@github.com:mmvrstudio/mernstack-booksearchengine.git
+    $ cd mernstack-booksearchengine
     $ npm start
-    $ node index.js
+    $ npm start
+    
+    
+## Libraries/Tools used:
+    Graphql
+    Apollo server - express
+    React,
+    Bootstrap,
+    MongoDB
+   
 
 
 
